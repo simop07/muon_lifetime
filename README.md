@@ -1,4 +1,4 @@
-<p align="center"> <img src="muon_Decay.svg" width="20%"> </p>
+<p align="center"> <img src="muon_Decay.svg" width="25%"> </p>
 
 # Cosmic ray muon lifetime
 
