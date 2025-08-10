@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="400"
+   height="350"
+   version="1.1"
+   id="svg21"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs21" />
+  <g
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="g12">
+    <path
+       d="m 120.85093,114.60022 -15.4,-11 -1.82,18.8"
+       id="path2" />
+    <path
+       d="m 94.850926,248.60022 0.772,-18.9 -16.8,8.79"
+       id="path3" />
+    <path
+       d="m 172.85093,166.60022 13,-13.7 -18.4,-4.42"
+       id="path4" />
+    <path
+       d="m 274.85093,137.60022 13.3,-13.5 -18.3,-4.74"
+       id="path5" />
+    <path
+       d="m 241.85093,90.100224 -0.454,18.899996 16.6,-9.069996"
+       id="path6" />
+    <path
+       d="m 50.850926,300.60022 84.200004,-133"
+       id="path8" />
+    <path
+       d="m 219.85093,143.60022 c 2.1,-0.58 115,-31.9 115,-31.9"
+       id="path9" />
+    <path
+       d="m 267.85093,65.600224 c -1.13,1.86 -46.9,76.899996 -46.9,76.899996"
+       id="path10" />
+    <path
+       d="m 134.85093,167.60022 c -0.904,-1.98 -52.400004,-114.999996 -52.400004,-114.999996"
+       id="path11" />
+    <path
+       d="m 134.85093,167.60022 c 2.09,-0.605 86.5,-25.1 86.5,-25.1"
+       stroke-dasharray="6, 6"
+       id="path12" />
+  </g>
+  <g
+     font-family="'DejaVu Serif'"
+     font-size="27px"
+     font-style="italic"
+     id="g21"
+     transform="translate(-18.149074,-4.3997755)">
+    <text
+       id="text13"><tspan
+         x="91"
+         y="46"
+         id="tspan13">ν<tspan
+   baseline-shift="sub"
+   font-size="65%"
+   id="tspan12">μ</tspan></tspan></text>
+    <text
+       id="text15"><tspan
+         x="281"
+         y="63"
+         id="tspan15">ν̄<tspan
+   baseline-shift="sub"
+   font-size="65%"
+   id="tspan14">e</tspan></tspan></text>
+    <text
+       id="text17"><tspan
+         x="58"
+         y="328"
+         id="tspan17">μ<tspan
+   baseline-shift="super"
+   font-size="65%"
+   id="tspan16">–</tspan></tspan></text>
+    <text
+       id="text19"><tspan
+         x="193"
+         y="196"
+         id="tspan19">W<tspan
+   baseline-shift="super"
+   font-size="65%"
+   id="tspan18">–</tspan></tspan></text>
+    <text
+       id="text21"><tspan
+         x="359"
+         y="115"
+         id="tspan21">e<tspan
+   baseline-shift="super"
+   font-size="65%"
+   id="tspan20">–</tspan></tspan></text>
+  </g>
+</svg>
