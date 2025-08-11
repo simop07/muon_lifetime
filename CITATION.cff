@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Pasquini
+  given-names: Simone
+title: "Cosmic ray muon lifetime"
+version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.16788686
+date-released: 2025-08-11
+url: "https://github.com/simop07/muon_lifetime"
