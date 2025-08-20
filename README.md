@@ -2,7 +2,8 @@
 
 # Cosmic ray muon lifetime
 
-[![DOI](https://zenodo.org/badge/1024295677.svg)](https://doi.org/10.5281/zenodo.16788686) [![GitHub 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16788686.svg)](https://doi.org/10.5281/zenodo.16788686)
+ [![GitHub 
 license](https://img.shields.io/github/license/simop07/muon_lifetime)](https://github.com/simop07/muon_lifetime/blob/main/LICENSE)
 
 ## Abstract
